@@ -23,8 +23,8 @@ email: shreyas10.kolpe@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Page collating online and offline resources relating to the Sthanikas of South Kanara.
   Maintained by Shreyas Kolpe as active research project.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
