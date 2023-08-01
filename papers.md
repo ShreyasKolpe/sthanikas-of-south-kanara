@@ -17,7 +17,15 @@ nav_order: 4
 
 [Read Here](https://archive.org/details/TheSthanikasAndTheirHistoricalImportance)
 
-## A Cooper Plate Inscription from South Kanara
+## Swatantrya Samara - 1837 (in Kannada)
+
+**By**: Padebettu Deva Rao (Pa. Deva Rao)
+
+**Published**: Sudarshana - Dr. TMA Pai Abhinandana Grantha, 1977.
+
+[Read Here](https://shreyaskolpe.com/data/documents/sudarshana_article.pdf)
+
+## A Copper Plate Inscription from South Kanara
 
 **By**: HR Nagaraja Sharma
 
