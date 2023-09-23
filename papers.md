@@ -40,3 +40,11 @@ nav_order: 4
 **Published**: Tuluva, Vol. 13 No. 1 (Jan - Mar 2023)
 
 [Read Here](https://shreyaskolpe.com/data/documents/Tuluva_paper.pdf)
+
+## Sthanika to Brahmin: Narratives, Institutions and Identity in Caste Mobility
+
+**By**: Shreyas Kolpe
+
+**Published**: Unpublished MA thesis (May 2023)
+
+[Read Here](https://shreyaskolpe.com/data/documents/ShreyasKolpe_MA_History.pdf)
