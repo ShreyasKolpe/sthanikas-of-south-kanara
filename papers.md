@@ -25,6 +25,14 @@ nav_order: 4
 
 [Read Here](https://shreyaskolpe.com/data/documents/sudarshana_article.pdf)
 
+## Shivalli Brahmanas: A Historical Analysis
+
+**By**: Dr. Malini Adiga
+
+**Published**: Shivalli Brahmanaru, ed. HBL Rao, 2001.
+
+[Read Here](https://shreyaskolpe.com/data/documents/MaliniAdiga_ShivalliBrahmins.pdf)
+
 ## A Copper Plate Inscription from South Kanara
 
 **By**: HR Nagaraja Sharma
@@ -32,6 +40,7 @@ nav_order: 4
 **Published**: [Studies in Indian Epigraphy](https://epigraphicalsociety.com/esi-journals), Vol. 29 (2003)
 
 [Read Here](https://shreyaskolpe.com/data/documents/CopperPlateFromSouthKanara.pdf)
+
 
 ## Nattojas: Revisiting the Puttur Copper Plate Inscription
 
