@@ -13,3 +13,7 @@ This website aims to collate online and offline resources relating to the Sthani
 Supported by and aims to feed into an active research project by [Shreyas Kolpe](http://www.shreyaskolpe.com).
 
 To collaborate, contact shreyas10.kolpe@gmail.com
+
+<img src="https://shreyaskolpe.com/data/images/IMG20230902130525.jpg" alt="Sthanikaru mentioned in Karkala inscription" style="height: 200px" />
+<br />
+<small>'Sthanikaru' mentioned in inscription at Chaturmukha basadi, Karkala, 1586 CE"</small>
